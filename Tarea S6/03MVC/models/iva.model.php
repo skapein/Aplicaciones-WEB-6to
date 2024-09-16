@@ -1,1 +1,0 @@
-procedimiteno todos() select * from
